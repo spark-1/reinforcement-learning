@@ -232,5 +232,5 @@ class Env(tk.Tk):
 
     def render(self):
         # 게임 속도 조정
-        time.sleep(0.05)
+        time.sleep(0.02)
         self.update()
