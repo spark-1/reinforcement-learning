@@ -13,4 +13,4 @@
 - [Deep Q Network](./Cartpole/DQN)
 - [Actor Critic (A2C)](./Cartpole/Actor-Critic)
 
-***파이썬과 케라스로 배우는 강화학습 책 기반 예제**
+*** 파이썬과 케라스로 배우는 강화학습 책 기반 예제**
