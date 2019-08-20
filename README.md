@@ -12,3 +12,5 @@
 **CartPole** - 카트폴 예제를 이용하여 여러가지 딥러닝을 강화학습에 응용한 알고리즘들을 적용해보기
 - [Deep Q Network](./Cartpole/DQN)
 - [Actor Critic (A2C)](./Cartpole/Actor-Critic)
+
+**파이썬과 케라스로 배우는 강화학습 책 기반 예제**
