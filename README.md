@@ -1,4 +1,5 @@
 # reinforcement-learning
+연습
 
 **Grid World** - 비교적 단순한 환경인 그리드월드에서 강화학습의 기초를 쌓기
 - [정책 이터레이션 (Policy Iteration)](./Grid-World/Policy_Iteration)
