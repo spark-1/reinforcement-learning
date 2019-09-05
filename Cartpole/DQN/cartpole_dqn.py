@@ -14,7 +14,7 @@ EPISODES = 300
 # 카트폴 예제에서의 DQN 에이전트
 class DQNAgent:
     def __init__(self, state_size, action_size):
-        self.render = False
+        self.render = True
         self.load_model = False
 
         # 상태와 행동의 크기 정의
